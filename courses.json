@@ -1,0 +1,82 @@
+[
+  {
+    "cover": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/course-01.jpg",
+    "instructor": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/team-01.png",
+    "name": "Mastering Web Design",
+    "description": "Master The Art Of Web Designing And Mocking, Prototyping And Creating Web Design Architecture",
+    "users": "950",
+    "price": "165"
+  },
+  {
+    "cover": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/course-02.jpg",
+    "instructor": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/team-02.png",
+    "name": "Data Structure And Algorithms",
+    "description": "Master The Art Of Data Strcuture And Famous Algorithms Like Sorting, Dividing And Conquering",
+    "users": "1150",
+    "price": "210"
+  },
+  {
+    "cover": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/course-03.jpg",
+    "instructor": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/team-01.png",
+    "name": "Responsive Web Design",
+    "description": "Mastering Responsive Web Design And Media Queries And Know Everything About Breakpoints",
+    "users": "650",
+    "price": "90"
+  },
+  {
+    "cover": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/course-04.jpg",
+    "instructor": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/team-03.png",
+    "name": "Mastering Python",
+    "description": "Mastering Python To Prepare For Data Science And AI And Automating Things in Your Life",
+    "users": "950",
+    "price": "250"
+  },
+  {
+    "cover": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/course-05.jpg",
+    "instructor": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/team-03.png",
+    "name": "PHP Examples",
+    "description": "PHP Tutorials And Examples And Practice On Web Application And Connecting With Databases",
+    "users": "850",
+    "price": "150"
+  },
+  {
+    "cover": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/course-02.jpg",
+    "instructor": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/team-02.png",
+    "name": "Data Structure And Algorithms",
+    "description": "Master The Art Of Data Strcuture And Famous Algorithms Like Sorting, Dividing And Conquering",
+    "users": "1150",
+    "price": "210"
+  },
+  {
+    "cover": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/course-03.jpg",
+    "instructor": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/team-01.png",
+    "name": "Responsive Web Design",
+    "description": "Mastering Responsive Web Design And Media Queries And Know Everything About Breakpoints",
+    "users": "650",
+    "price": "90"
+  },
+  {
+    "cover": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/course-01.jpg",
+    "instructor": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/team-01.png",
+    "name": "Mastering Web Design",
+    "description": "Master The Art Of Web Designing And Mocking, Prototyping And Creating Web Design Architecture",
+    "users": "950",
+    "price": "165"
+  },
+  {
+    "cover": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/course-05.jpg",
+    "instructor": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/team-03.png",
+    "name": "PHP Examples",
+    "description": "PHP Tutorials And Examples And Practice On Web Application And Connecting With Databases",
+    "users": "850",
+    "price": "150"
+  },
+  {
+    "cover": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/course-04.jpg",
+    "instructor": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/team-03.png",
+    "name": "Mastering Python",
+    "description": "Mastering Python To Prepare For Data Science And AI And Automating Things in Your Life",
+    "users": "950",
+    "price": "250"
+  }
+]
