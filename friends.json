@@ -1,0 +1,102 @@
+[
+{
+  "name":"Ahmed Nasser",
+  "job": "JavaScript Developer",
+  "friends": 99,
+  "projects": 15,
+  "articles":25,
+"person":"https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/friend-01.jpg"
+ ,"joinedDate":"02/10/2021"   
+},
+  {
+  "name":"Omar Fathy",
+  "job": "Cloud Developer",
+  "friends": 30,
+  "projects": 11,
+  "articles":12,
+"person":"https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/friend-02.jpg"
+ ,"joinedDate":"02/08/2020"   
+},
+    {
+  "name":"Omar Ahmed",
+  "job": "Mobile Developer",
+  "friends": 80,
+  "projects": 20,
+  "articles":18,
+"person":"https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/friend-03.jpg"
+ ,"joinedDate":"02/06/2020"   
+},
+      {
+  "name":"Shady Nabil",
+  "job": "Back-End Developer",
+  "friends": 70,
+  "projects": 30,
+  "articles":18,
+"person":"https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/friend-04.jpg"
+ ,"joinedDate":"28/06/2020"   
+},
+        {
+  "name":"Mohamed Ibrahim",
+  "job": "Algorithm Developer",
+  "friends": 80,
+  "projects": 30,
+  "articles":18,
+"person":"https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/friend-05.jpg"
+ ,"joinedDate":"28/08/2020"   
+},
+        {
+  "name":"Amr Hendawy",
+  "job": "Back-End Developer",
+  "friends": 70,
+  "projects": 30,
+  "articles":18,
+"person":"https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/friend-04.jpg"
+ ,"joinedDate":"28/06/2020"   
+},
+    {
+  "name":"Mahmoud Adel",
+  "job": "Cloud Developer",
+  "friends": 30,
+  "projects": 11,
+  "articles":12,
+"person":"https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/friend-02.jpg"
+ ,"joinedDate":"02/08/2020"   
+},
+      {
+  "name":"Mahmoud Adel",
+  "job": "Cloud Developer",
+  "friends": 30,
+  "projects": 11,
+  "articles":12,
+"person":"https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/friend-02.jpg"
+ ,"joinedDate":"02/08/2020"   
+},
+          {
+  "name":"Ahmed Abuzaid",
+  "job": "Content Creator",
+  "friends": 80,
+  "projects": 30,
+  "articles":18,
+"person":"https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/friend-05.jpg"
+ ,"joinedDate":"28/08/2020"   
+},
+  {
+  "name":"Gareeb Elshiekh",
+  "job": "JavaScript Developer",
+  "friends": 99,
+  "projects": 15,
+  "articles":25,
+"person":"https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/friend-01.jpg"
+ ,"joinedDate":"09/10/2020"   
+},
+      {
+  "name":"Hamza",
+  "job": "Front-End Developer",
+  "friends": 80,
+  "projects": 20,
+  "articles":18,
+"person":"https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/friend-03.jpg"
+ ,"joinedDate":"02/06/2020"   
+}
+  
+]
