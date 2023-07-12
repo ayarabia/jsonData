@@ -1,0 +1,143 @@
+[
+  { "status":"Free",
+    "price":"0.00",
+    "features":[
+      { "text":"Access All Text Lessons",
+        "availability":true
+        
+      },
+          { "text":"Access All Videos Lessons",
+        "availability":true
+        
+      },
+          { "text":"Appear On Leaderboard",
+        "availability":true
+        
+      },
+           { "text":"Browse Content Without Ads",
+        "availability":false
+        
+      },
+             { "text":"Access All Assignments",
+        "availability":false
+        
+      },
+        { "text":"Get Daily Prizes",
+        "availability":false
+        
+      },
+             { "text":"Earn Certificate",
+        "availability":false
+        
+      },
+        { "text":"1 GB Space For Hosting Files",
+        "availability":false
+        
+      },
+             { "text":"Access Badge System",
+        "availability":false
+        
+      }
+      
+      
+    ],
+     "bg":"bg-green",
+    "joined":false
+    
+    
+  },
+    { "status":"Basic",
+    "price":"7.99",
+    "features":[
+      { "text":"Access All Text Lessons",
+        "availability":true
+        
+      },
+          { "text":"Access All Videos Lessons",
+        "availability":true
+        
+      },
+          { "text":"Appear On Leaderboard",
+        "availability":true
+        
+      },
+           { "text":"Browse Content Without Ads",
+        "availability":true
+        
+      },
+             { "text":"Access All Assignments",
+        "availability":true
+        
+      },
+        { "text":"Get Daily Prizes",
+        "availability":true
+        
+      },
+             { "text":"Earn Certificate",
+        "availability":true
+        
+      },
+        { "text":"1 GB Space For Hosting Files",
+        "availability":false
+        
+      },
+             { "text":"Access Badge System",
+        "availability":false
+        
+      }
+      
+      
+    ],
+     "bg":"bg-blue",
+    "joined":false
+    
+    
+  },
+    { "status":"Premium",
+    "price":"19.99",
+    "features":[
+      { "text":"Access All Text Lessons",
+        "availability":true
+        
+      },
+          { "text":"Access All Videos Lessons",
+        "availability":true
+        
+      },
+          { "text":"Appear On Leaderboard",
+        "availability":true
+        
+      },
+           { "text":"Browse Content Without Ads",
+        "availability":true
+        
+      },
+             { "text":"Access All Assignments",
+        "availability":true
+        
+      },
+        { "text":"Get Daily Prizes",
+        "availability":true
+        
+      },
+             { "text":"Earn Certificate",
+        "availability":true
+        
+      },
+        { "text":"1 GB Space For Hosting Files",
+        "availability":true
+        
+      },
+             { "text":"Access Badge System",
+        "availability":true
+        
+      }
+      
+      
+    ],
+     "bg":"bg-orange",
+    "joined":true
+    
+    
+  }
+]
