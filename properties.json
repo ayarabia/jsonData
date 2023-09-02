@@ -1,0 +1,783 @@
+{
+    "status": 1,
+    "message": "all properties",
+    "data": [
+        {
+            "Unique_ID": 3,
+            "slug ": "Ariston Hotel",
+            "property_name": "Ariston Hotel",
+            "property_code": "epZqLY4qJop5o0gO",
+            "price": "10 LE",
+            "description": "Hotel Ariston is located in the historical center of Rome, few meters from the Termini Station, near famous Santa Maria Maggiore, Colosseum, Fori Imperiali and Via Veneto, where the main ministerial offices and foreign embassies are located.",
+            "main_image": "https://www.hotelariston.it/data/1366/gallery-home-1.jpg",
+            "property_size": "6",
+            "address": "9 Abou Al Hool Al street, Giza, 12557 Cairo, Egypt",
+            "country": [
+                "egypt"
+            ],
+            "state": [
+                "cairo"
+            ],
+            "city": [
+                "cairo"
+            ],
+            "availability_date_start": "2023-08-28",
+            "availability_date_end": "2023-08-31",
+            "Additional_fees": "200",
+            "longitude": "12.384270",
+            "total_bathrooms": null,
+            "latitude": "12.384270",
+            "Property_Type": {
+                "id": 2,
+                "created_at": null,
+                "updated_at": null,
+                "type_name": "Hotel",
+                "type_icon": "https://bookazon.tadafoq.com/dashboard/Properties/Type/gWIbLqGZXXCaIxwxrrW9bnG6me0jl9fGuiGhmOfv.jpg"
+            },
+            "Facilities": [
+                {
+                    "id": 7,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "Airport",
+                    "distance": "23 km",
+                    "property_id": 3
+                },
+                {
+                    "id": 8,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "Bus Stop",
+                    "distance": "7 km",
+                    "property_id": 4
+                },
+                {
+                    "id": 9,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "Hospital",
+                    "distance": "3km",
+                    "property_id": 4
+                },
+                {
+                    "id": 10,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "SuperMarket",
+                    "distance": "500 M",
+                    "property_id": 4
+                },
+                {
+                    "id": 11,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": null,
+                    "distance": null,
+                    "property_id": 4
+                }
+            ],
+            "Amenities": [
+                "Air Conditioning",
+                "frigirator",
+                "Tour desk",
+                "Horseback riding",
+                "24-hour security",
+                "Airport shuttle (free)",
+                "Terrace",
+                "Room service",
+                "ATM on site",
+                "24-hour front desk",
+                "Walking tours",
+                "Soundproof rooms"
+            ],
+            "Owner": {
+                "id": 2,
+                "first_name": "Property",
+                "last_name": "Owner",
+                "email": "owner@app.com",
+                "phone_number": "01099812434",
+                "address": "Egypt,Mansoura",
+                "gender": "male",
+                "role_id": 2,
+                "profile_picture": "https://bookazon.tadafoq.com/image/",
+                "status": "active",
+                "email_verified_at": null,
+                "created_at": null,
+                "updated_at": null,
+                "full_name": "Property Owner"
+            },
+            "Multi_Images": [
+                {
+                    "id": 6,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/YIgjHDBfXCrx31Q4QfeU14YJum1lFUr4EwreDuHW.jpg",
+                    "property_id": 3
+                },
+                {
+                    "id": 7,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/W5tLwaZNabs8Hx12s5FhJ94lKAUDRKVcwPrPef0E.jpg",
+                    "property_id": 4
+                },
+                {
+                    "id": 8,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/5ErqvpdRtDEhiYmNR8rxsX86B2bZITKLLA1Hrtvk.jpg",
+                    "property_id": 3
+                }
+            ],
+             "rooms": [
+                  {"id":1,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/Säästöluokka2-1700x1135.jpg","city":"Cairo","type":"Economy","price":"120 ", "property_id": 3,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-309-1700x1135.jpg",
+                  "https://www.hotelarthur.fi/wp-content/uploads/2019/09/Säästöluokka2-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-408_uusi-1700x1135.jpg"
+                  ]},
+                 {"id":2,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s20-1024x682.jpg","city":"Alexandria","type":"Deluxe","price":"218 ", "property_id": 3,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s201.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s20-1024x682.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/Standard-kylpp%C3%A4ri-613-2-1700x1135.jpg"
+                  ]},
+               {"id":3,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg","city":"Egypt","type":"Double","price":"300 ", "property_id": 3, "images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/IMG_20170103_122944-1700x1260.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/uusi-double--1700x1133.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg"
+                  ]},
+                  {"id":4,"featured_photo":
+                   "https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","city":"Alexandria","type":"Quadruple","price":"218 ", "property_id": 6,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]},
+               {"id":5,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg","city":"Egypt","type":"Double","price":"300 ", "property_id": 6, "images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]}
+
+            ]
+        },
+           {
+            "Unique_ID": 6,
+            "slug ": "Arthur Hotel",
+            "property_name": "Arthur Hotel",
+            "property_code": "epZqLY4qJop5o0gO",
+            "price": "70 LE",
+            "description": "Arthur Hotel is Offering comfortable stays, great food, and the perfect base for Helsinki exploration Hotel Arthur is the choice in Helsinki city centre!.Hotel is located in the historical center of Rome, few meters from the Termini Station, near famous Santa Maria Maggiore, Colosseum, Fori Imperiali and Via Veneto, where the main ministerial offices and foreign embassies are located",
+            "main_image": "https://www.hotelarthur.fi/wp-content/uploads/2020/03/some-yhteys-1024x538.jpg",
+            "property_size": "6",
+            "address": "9 Abou Al Hool Al street, Giza, 12557 Cairo, Egypt",
+            "country": [
+                "egypt"
+            ],
+            "state": [
+                "cairo"
+            ],
+            "city": [
+                "cairo"
+            ],
+            "availability_date_start": "2023-08-28",
+            "availability_date_end": "2023-08-31",
+            "Additional_fees": "200",
+            "longitude": "12.384270",
+            "total_bathrooms": null,
+            "latitude": "12.384270",
+            "Property_Type": {
+                "id": 2,
+                "created_at": null,
+                "updated_at": null,
+                "type_name": "Hotel",
+                "type_icon": "https://bookazon.tadafoq.com/dashboard/Properties/Type/gWIbLqGZXXCaIxwxrrW9bnG6me0jl9fGuiGhmOfv.jpg"
+            },
+            "Facilities": [
+                {
+                    "id": 7,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "Airport",
+                    "distance": "23 km",
+                    "property_id": 3
+                },
+                {
+                    "id": 8,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "Bus Stop",
+                    "distance": "7 km",
+                    "property_id": 4
+                },
+                {
+                    "id": 9,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "Hospital",
+                    "distance": "3km",
+                    "property_id": 4
+                },
+                {
+                    "id": 10,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "SuperMarket",
+                    "distance": "500 M",
+                    "property_id": 4
+                },
+                {
+                    "id": 11,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": null,
+                    "distance": null,
+                    "property_id": 4
+                }
+            ],
+            "Amenities": [
+                "Air Conditioning",
+                "frigirator",
+                "Tour desk",
+                "Horseback riding",
+                "24-hour security",
+                "Airport shuttle (free)",
+                "Terrace",
+                "Room service",
+                "ATM on site",
+                "24-hour front desk",
+                "Walking tours",
+                "Soundproof rooms"
+            ],
+            "Owner": {
+                "id": 2,
+                "first_name": "Property",
+                "last_name": "Owner",
+                "email": "owner@app.com",
+                "phone_number": "01099812434",
+                "address": "Egypt,Mansoura",
+                "gender": "male",
+                "role_id": 2,
+                "profile_picture": "https://bookazon.tadafoq.com/image/",
+                "status": "active",
+                "email_verified_at": null,
+                "created_at": null,
+                "updated_at": null,
+                "full_name": "Property Owner"
+            },
+            "Multi_Images": [
+                {
+                    "id": 6,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/YIgjHDBfXCrx31Q4QfeU14YJum1lFUr4EwreDuHW.jpg",
+                    "property_id": 4
+                },
+                {
+                    "id": 7,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/W5tLwaZNabs8Hx12s5FhJ94lKAUDRKVcwPrPef0E.jpg",
+                    "property_id": 6
+                },
+                {
+                    "id": 8,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/5ErqvpdRtDEhiYmNR8rxsX86B2bZITKLLA1Hrtvk.jpg",
+                    "property_id": 6
+                }
+            ],
+             "rooms": [
+                  {"id":1,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/kallas20-1024x679.jpg","city":"Cairo","type":"Aino","price":"220 ", "property_id": 6,
+"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/kallas20-1024x679.jpg",
+                    "https://www.hotelarthur.fi/wp-content/uploads/2019/09/IMG_5703-1700x1128.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/IMG_5681-1-1700x1119.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/IMG_5700-1700x1133.jpg"
+                  ]},
+                 {"id":2,"featured_photo":
+                   "https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","city":"Alexandria","type":"Quadruple","price":"218 ", "property_id": 6,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]},
+               {"id":3,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg","city":"Egypt","type":"Double","price":"300 ", "property_id": 6, "images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]},
+                  {"id":4,"featured_photo":
+                   "https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","city":"Alexandria","type":"Quadruple","price":"218 ", "property_id": 6,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]},
+               {"id":5,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg","city":"Egypt","type":"Double","price":"300 ", "property_id": 6, "images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]}
+
+            ]
+        },
+        {
+            "Unique_ID": 5,
+            "slug ": "central-cairo-hotel",
+            "property_name": "Central Cairo Hotel",
+            "property_code": "rIzYTYvesARKqf8J",
+            "price": "700 LE",
+            "description": "At the hotel, the rooms are fitted with a wardrobe. Complete with a private bathroom equipped with a shower and free toiletries, guest rooms at Central Cairo Hotel have a flat-screen TV and air conditioning, and selected rooms are fitted with a balcony. At the accommodation each room has bed linen and towels.",
+            "main_image": "https://bookazon.tadafoq.com/dashboard/upload/property/thambnail/bOTvE5bOIehDJV6f8F96OHtjIqzlaEs9ZOmcrzgt.jpg",
+            "property_size": "150",
+            "address": "Cairo, Egypt",
+            "country": [
+                "egypt"
+            ],
+            "state": [
+                "cairo"
+            ],
+            "city": [
+                "cairo"
+            ],
+            "availability_date_start": "2023-08-29",
+            "availability_date_end": "2023-08-30",
+            "Additional_fees": "100",
+            "longitude": "18.235796",
+            "total_bathrooms": null,
+            "latitude": "20.205735",
+            "Property_Type": {
+                "id": 2,
+                "created_at": null,
+                "updated_at": null,
+                "type_name": "Hotel",
+                "type_icon": "https://bookazon.tadafoq.com/dashboard/Properties/Type/gWIbLqGZXXCaIxwxrrW9bnG6me0jl9fGuiGhmOfv.jpg"
+            },
+            "Facilities": [
+                {
+                    "id": 12,
+                    "created_at": "2023-08-29T16:16:05.000000Z",
+                    "updated_at": "2023-08-29T16:16:05.000000Z",
+                    "facility_name": "Hospital",
+                    "distance": "5",
+                    "property_id": 5
+                },
+                {
+                    "id": 13,
+                    "created_at": "2023-08-29T16:16:05.000000Z",
+                    "updated_at": "2023-08-29T16:16:05.000000Z",
+                    "facility_name": null,
+                    "distance": null,
+                    "property_id": 5
+                }
+            ],
+            "Amenities": [
+                "Air Conditioning",
+                "Tour desk",
+                "Horseback riding",
+                "24-hour security",
+                "ATM on site",
+                "Walking tours"
+            ],
+            "Owner": {
+                "id": 22,
+                "first_name": "Amira",
+                "last_name": "Fakhry",
+                "email": "amirafakhry@gmail.com",
+                "phone_number": "0506802489",
+                "address": "Mansoura",
+                "gender": "female",
+                "role_id": 2,
+                "profile_picture": "https://bookazon.tadafoq.com/image/",
+                "status": null,
+                "email_verified_at": null,
+                "created_at": "2023-08-25T08:04:10.000000Z",
+                "updated_at": "2023-08-29T16:27:29.000000Z",
+                "full_name": "Amira Fakhry"
+            },
+            "Multi_Images": [
+                {
+                    "id": 9,
+                    "created_at": "2023-08-29T16:16:05.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/wWfCeQDT64orUxvR1LwJ8JF0mfrHt7eLvg6o3DSP.jpg",
+                    "property_id": 5
+                }
+            ],
+            "rooms": [
+                  {"id":1,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/j120-1024x681.jpg","city":"Cairo","type":"Deluxe","price":"118 ", "property_id": 5,"images":[
+                    "https://www.hotelarthur.fi/wp-content/uploads/2019/09/Jugend-J1-1-1-1700x1135.jpg",
+                    "https://www.hotelarthur.fi/wp-content/uploads/2019/09/Jugend-J1-2-1-1700x1135.jpg",
+                    "https://www.hotelarthur.fi/wp-content/uploads/2019/09/j120.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/Jugend-J1-ykkönen-535-1700x1135.jpg"
+                  ]},
+                 {"id":2,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s20-1024x682.jpg","city":"Alexandria","type":"Twin","price":"218 ", "property_id": 5,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s201.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s20-1024x682.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/Standard-kylpp%C3%A4ri-613-2-1700x1135.jpg"
+                  ]},
+               {"id":3,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg","city":"Egypt","type":"Double","price":"300 ", "property_id": 5, "images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/IMG_20170103_122944-1700x1260.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/uusi-double--1700x1133.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg"
+                  ]},
+                  {"id":4,"featured_photo":
+                   "https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","city":"Alexandria","type":"Quadruple","price":"218 ", "property_id": 6,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]},
+               {"id":5,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg","city":"Egypt","type":"Double","price":"300 ", "property_id": 6, "images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]}
+
+            ]
+        },
+        {
+            "Unique_ID": 4,
+            "slug ": "pyramids-and-sphinx-hotel",
+            "property_name": "Pyramids and sphinx hotel",
+            "property_code": "epZqLY4qJop5o0gO",
+            "price": "6 LE",
+            "description": "eligible for a Genius discount at Pyramids and sphinx hotel! To save at this property, all you have to do isLocated in Cairo, a 7-minute walk from Great Sphinx, Pyramids and sphinx hotel has accommodations with a garden, free private parking, a terrace and a restaurant. This 3-star hotel offers room service, a 24-hour front desk and free WiFi. The property provides an ATM, free shuttle service and currency exchange for guests. Guests at the hotel can enjoy a continental breakfast. Guests at Pyramids and sphinx hotel will be able to enjoy activities in and around Cairo, like cycling. Giza Pyramids is 3 miles from the accommodation, while Cairo Tower is 8.8 miles from the property.",
+            "main_image": "https://bookazon.tadafoq.com/dashboard/upload/property/thambnail/DeVLi76ulv31FO8EnfltllDLaPzXuKn9NQ1wPksX.jpg",
+            "property_size": "6",
+            "address": "9 Abou Al Hool Al street, Giza, 12557 Cairo, Egypt",
+            "country": [
+                "egypt"
+            ],
+            "state": [
+                "cairo"
+            ],
+            "city": [
+                "cairo"
+            ],
+            "availability_date_start": "2023-08-28",
+            "availability_date_end": "2023-08-31",
+            "Additional_fees": "200",
+            "longitude": "12.384270",
+            "total_bathrooms": null,
+            "latitude": "12.384270",
+            "Property_Type": {
+                "id": 2,
+                "created_at": null,
+                "updated_at": null,
+                "type_name": "Hotel",
+                "type_icon": "https://bookazon.tadafoq.com/dashboard/Properties/Type/gWIbLqGZXXCaIxwxrrW9bnG6me0jl9fGuiGhmOfv.jpg"
+            },
+            "Facilities": [
+                {
+                    "id": 7,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "Airport",
+                    "distance": "23 km",
+                    "property_id": 4
+                },
+                {
+                    "id": 8,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "Bus Stop",
+                    "distance": "7 km",
+                    "property_id": 4
+                },
+                {
+                    "id": 9,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "Hospital",
+                    "distance": "3km",
+                    "property_id": 4
+                },
+                {
+                    "id": 10,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "SuperMarket",
+                    "distance": "500 M",
+                    "property_id": 4
+                },
+                {
+                    "id": 11,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": null,
+                    "distance": null,
+                    "property_id": 4
+                }
+            ],
+            "Amenities": [
+                "Air Conditioning",
+                "frigirator",
+                "Tour desk",
+                "Horseback riding",
+                "24-hour security",
+                "Airport shuttle (free)",
+                "Terrace",
+                "Room service",
+                "ATM on site",
+                "24-hour front desk",
+                "Walking tours",
+                "Soundproof rooms"
+            ],
+            "Owner": {
+                "id": 2,
+                "first_name": "Property",
+                "last_name": "Owner",
+                "email": "owner@app.com",
+                "phone_number": "01099812434",
+                "address": "Egypt,Mansoura",
+                "gender": "male",
+                "role_id": 2,
+                "profile_picture": "https://bookazon.tadafoq.com/image/",
+                "status": "active",
+                "email_verified_at": null,
+                "created_at": null,
+                "updated_at": null,
+                "full_name": "Property Owner"
+            },
+            "Multi_Images": [
+                {
+                    "id": 6,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/YIgjHDBfXCrx31Q4QfeU14YJum1lFUr4EwreDuHW.jpg",
+                    "property_id": 4
+                },
+                {
+                    "id": 7,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/W5tLwaZNabs8Hx12s5FhJ94lKAUDRKVcwPrPef0E.jpg",
+                    "property_id": 4
+                },
+                {
+                    "id": 8,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/5ErqvpdRtDEhiYmNR8rxsX86B2bZITKLLA1Hrtvk.jpg",
+                    "property_id": 4
+                }
+            ],
+             "rooms": [
+                  {"id":1,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/Säästöluokka2-1700x1135.jpg","city":"Cairo","type":"Economy","price":"120 ", "property_id": 4,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/Säästöluokka4-1700x1260.jpg",
+                  "https://www.hotelarthur.fi/wp-content/uploads/2019/09/Säästöluokka2-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/Säästöluokka3-1700x1135.jpg"
+                  ]},
+                 {"id":2,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s20-1024x682.jpg","city":"Alexandria","type":"Deluxe","price":"218 ", "property_id": 4,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s201.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s20-1024x682.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/Standard-kylpp%C3%A4ri-613-2-1700x1135.jpg"
+                  ]},
+               {"id":3,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg","city":"Egypt","type":"Double","price":"300 ", "property_id": 4, "images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/IMG_20170103_122944-1700x1260.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/uusi-double--1700x1133.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg"
+                  ]},
+                  {"id":4,"featured_photo":
+                   "https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","city":"Alexandria","type":"Quadruple","price":"218 ", "property_id": 6,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]},
+               {"id":5,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg","city":"Egypt","type":"Double","price":"300 ", "property_id": 6, "images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]}
+
+            ]
+        },
+        {
+            "Unique_ID": 9,
+            "slug ": "The Palm Resort Hotel",
+            "property_name": "The Palm Resort Hotel",
+            "property_code": "rIzYTYvesARKqf8J",
+            "price": "700 LE",
+            "description": "At the hotel, the rooms are fitted with a wardrobe. Complete with a private bathroom equipped with a shower and free toiletries, guest rooms at Central Cairo Hotel have a flat-screen TV and air conditioning, and selected rooms are fitted with a balcony. At the accommodation each room has bed linen and towels.",
+            "main_image": "https://images.trvl-media.com/lodging/92000000/91350000/91349300/91349212/46bbd44d.jpg?impolicy=resizecrop&rw=598&ra=fit",
+            "property_size": "150",
+            "address": "Cairo, Egypt",
+            "country": [
+                "egypt"
+            ],
+            "state": [
+                "cairo"
+            ],
+            "city": [
+                "cairo"
+            ],
+            "availability_date_start": "2023-08-29",
+            "availability_date_end": "2023-08-30",
+            "Additional_fees": "100",
+            "longitude": "18.235796",
+            "total_bathrooms": null,
+            "latitude": "20.205735",
+            "Property_Type": {
+                "id": 2,
+                "created_at": null,
+                "updated_at": null,
+                "type_name": "Hotel",
+                "type_icon": "https://bookazon.tadafoq.com/dashboard/Properties/Type/gWIbLqGZXXCaIxwxrrW9bnG6me0jl9fGuiGhmOfv.jpg"
+            },
+            "Facilities": [
+                {
+                    "id": 12,
+                    "created_at": "2023-08-29T16:16:05.000000Z",
+                    "updated_at": "2023-08-29T16:16:05.000000Z",
+                    "facility_name": "Hospital",
+                    "distance": "5",
+                    "property_id": 5
+                },
+                {
+                    "id": 13,
+                    "created_at": "2023-08-29T16:16:05.000000Z",
+                    "updated_at": "2023-08-29T16:16:05.000000Z",
+                    "facility_name": null,
+                    "distance": null,
+                    "property_id": 5
+                }
+            ],
+            "Amenities": [
+                "Air Conditioning",
+                "Tour desk",
+                "Horseback riding",
+                "24-hour security",
+                "ATM on site",
+                "Walking tours"
+            ],
+            "Owner": {
+                "id": 22,
+                "first_name": "Amira",
+                "last_name": "Fakhry",
+                "email": "amirafakhry@gmail.com",
+                "phone_number": "0506802489",
+                "address": "Mansoura",
+                "gender": "female",
+                "role_id": 2,
+                "profile_picture": "https://bookazon.tadafoq.com/image/",
+                "status": null,
+                "email_verified_at": null,
+                "created_at": "2023-08-25T08:04:10.000000Z",
+                "updated_at": "2023-08-29T16:27:29.000000Z",
+                "full_name": "Amira Fakhry"
+            },
+            "Multi_Images": [
+                {
+                    "id": 9,
+                    "created_at": "2023-08-29T16:16:05.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/wWfCeQDT64orUxvR1LwJ8JF0mfrHt7eLvg6o3DSP.jpg",
+                    "property_id": 5
+                }
+            ],
+            "rooms": [
+                  {"id":1,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/j120-1024x681.jpg","city":"Cairo","type":"Deluxe","price":"118 ", "property_id": 5,"images":[
+                    "https://www.hotelarthur.fi/wp-content/uploads/2019/09/Jugend-J1-1-1-1700x1135.jpg",
+                    "https://www.hotelarthur.fi/wp-content/uploads/2019/09/Jugend-J1-2-1-1700x1135.jpg",
+                    "https://www.hotelarthur.fi/wp-content/uploads/2019/09/j120.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/Jugend-J1-ykkönen-535-1700x1135.jpg"
+                  ]},
+                 {"id":2,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s20-1024x682.jpg","city":"Alexandria","type":"Twin","price":"218 ", "property_id": 5,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s201.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s20-1024x682.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/Standard-kylpp%C3%A4ri-613-2-1700x1135.jpg"
+                  ]},
+               {"id":3,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg","city":"Egypt","type":"Double","price":"300 ", "property_id": 5, "images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/IMG_20170103_122944-1700x1260.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/uusi-double--1700x1133.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg"
+                  ]},
+                  {"id":4,"featured_photo":
+                   "https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","city":"Alexandria","type":"Quadruple","price":"218 ", "property_id": 6,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]},
+               {"id":5,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg","city":"Egypt","type":"Double","price":"300 ", "property_id": 6, "images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]}
+
+            ]
+        },
+        {
+            "Unique_ID": 11,
+            "slug ": "pyramids-and-sphinx-hotel",
+            "property_name": "Pyramids and sphinx hotel",
+            "property_code": "epZqLY4qJop5o0gO",
+            "price": "6 LE",
+            "description": "eligible for a Genius discount at Pyramids and sphinx hotel! To save at this property, all you have to do isLocated in Cairo, a 7-minute walk from Great Sphinx, Pyramids and sphinx hotel has accommodations with a garden, free private parking, a terrace and a restaurant. This 3-star hotel offers room service, a 24-hour front desk and free WiFi. The property provides an ATM, free shuttle service and currency exchange for guests. Guests at the hotel can enjoy a continental breakfast. Guests at Pyramids and sphinx hotel will be able to enjoy activities in and around Cairo, like cycling. Giza Pyramids is 3 miles from the accommodation, while Cairo Tower is 8.8 miles from the property.",
+            "main_image": "https://lh3.googleusercontent.com/p/AF1QipOnFNCD_QikzF1mkTAFD972pdoDyvnJ4JOUH5XA=w296-h202-n-k-rw-no-v1",
+            "property_size": "6",
+            "address": "9 Abou Al Hool Al street, Giza, 12557 Cairo, Egypt",
+            "country": [
+                "egypt"
+            ],
+            "state": [
+                "cairo"
+            ],
+            "city": [
+                "cairo"
+            ],
+            "availability_date_start": "2023-08-28",
+            "availability_date_end": "2023-08-31",
+            "Additional_fees": "200",
+            "longitude": "12.384270",
+            "total_bathrooms": null,
+            "latitude": "12.384270",
+            "Property_Type": {
+                "id": 2,
+                "created_at": null,
+                "updated_at": null,
+                "type_name": "Hotel",
+                "type_icon": "https://bookazon.tadafoq.com/dashboard/Properties/Type/gWIbLqGZXXCaIxwxrrW9bnG6me0jl9fGuiGhmOfv.jpg"
+            },
+            "Facilities": [
+                {
+                    "id": 7,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "Airport",
+                    "distance": "23 km",
+                    "property_id": 4
+                },
+                {
+                    "id": 8,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "Bus Stop",
+                    "distance": "7 km",
+                    "property_id": 4
+                },
+                {
+                    "id": 9,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "Hospital",
+                    "distance": "3km",
+                    "property_id": 4
+                },
+                {
+                    "id": 10,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": "SuperMarket",
+                    "distance": "500 M",
+                    "property_id": 4
+                },
+                {
+                    "id": 11,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": "2023-08-27T22:00:28.000000Z",
+                    "facility_name": null,
+                    "distance": null,
+                    "property_id": 4
+                }
+            ],
+            "Amenities": [
+                "Air Conditioning",
+                "frigirator",
+                "Tour desk",
+                "Horseback riding",
+                "24-hour security",
+                "Airport shuttle (free)",
+                "Terrace",
+                "Room service",
+                "ATM on site",
+                "24-hour front desk",
+                "Walking tours",
+                "Soundproof rooms"
+            ],
+            "Owner": {
+                "id": 2,
+                "first_name": "Property",
+                "last_name": "Owner",
+                "email": "owner@app.com",
+                "phone_number": "01099812434",
+                "address": "Egypt,Mansoura",
+                "gender": "male",
+                "role_id": 2,
+                "profile_picture": "https://bookazon.tadafoq.com/image/",
+                "status": "active",
+                "email_verified_at": null,
+                "created_at": null,
+                "updated_at": null,
+                "full_name": "Property Owner"
+            },
+            "Multi_Images": [
+                {
+                    "id": 6,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/YIgjHDBfXCrx31Q4QfeU14YJum1lFUr4EwreDuHW.jpg",
+                    "property_id": 4
+                },
+                {
+                    "id": 7,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/W5tLwaZNabs8Hx12s5FhJ94lKAUDRKVcwPrPef0E.jpg",
+                    "property_id": 4
+                },
+                {
+                    "id": 8,
+                    "created_at": "2023-08-27T22:00:28.000000Z",
+                    "updated_at": null,
+                    "photo": "https://bookazon.tadafoq.com/dashboard/upload/property/multi_image/5ErqvpdRtDEhiYmNR8rxsX86B2bZITKLLA1Hrtvk.jpg",
+                    "property_id": 4
+                }
+            ],
+             "rooms": [
+                  {"id":1,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/Säästöluokka2-1700x1135.jpg","city":"Cairo","type":"Economy","price":"120 ", "property_id": 4,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/Säästöluokka4-1700x1260.jpg",
+                  "https://www.hotelarthur.fi/wp-content/uploads/2019/09/Säästöluokka2-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/Säästöluokka3-1700x1135.jpg"
+                  ]},
+                 {"id":2,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s20-1024x682.jpg","city":"Alexandria","type":"Deluxe","price":"218 ", "property_id": 4,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s201.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2s20-1024x682.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/Standard-kylpp%C3%A4ri-613-2-1700x1135.jpg"
+                  ]},
+               {"id":3,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg","city":"Egypt","type":"Double","price":"300 ", "property_id": 4, "images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/IMG_20170103_122944-1700x1260.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/uusi-double--1700x1133.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg"
+                  ]},
+                  {"id":4,"featured_photo":
+                   "https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","city":"Alexandria","type":"Quadruple","price":"218 ", "property_id": 6,"images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]},
+               {"id":5,"featured_photo":"https://www.hotelarthur.fi/wp-content/uploads/2019/09/h2d20-1024x681.jpg","city":"Egypt","type":"Double","price":"300 ", "property_id": 6, "images":["https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-1700x1135.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/H4S20.jpg","https://www.hotelarthur.fi/wp-content/uploads/2019/09/4-hengen-huone-772-4-1700x1135.jpg"
+                  ]}
+
+            ]
+        }
+      
+    ]
+}
